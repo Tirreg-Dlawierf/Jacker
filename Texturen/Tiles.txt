@@ -1,0 +1,16 @@
+Landschaft
+-----
+Erde
+Wiese/Gras
+Ozean
+Küstenwasser
+Strand/Sand
+Berge
+Sumpf
+Straße
+
+
+Gebäude
+-------
+Fabrik
+Stadt
