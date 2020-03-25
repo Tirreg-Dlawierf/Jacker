@@ -1,10 +1,10 @@
-Landschaft
+﻿Landschaft
 -----
-Erde
+Erde -
 Wiese/Gras
 Ozean
 Küstenwasser
-Strand/Sand
+Strand/Sand/Düne
 Berge
 Sumpf
 Straße
@@ -14,3 +14,4 @@ Gebäude
 -------
 Fabrik
 Stadt
+Bauernhof
